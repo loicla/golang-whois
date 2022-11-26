@@ -783,7 +783,7 @@ func init() {
 	servers["photos"] = "whois.donuts.co"
 	servers["physio"] = "whois.nic.physio"
 	servers["piaget"] = "whois.nic.piaget"
-	servers["pics"] = "whois.uniregistry.net"
+	servers["pics"] = "whois.nic.pics"
 	servers["pictet"] = "whois.nic.pictet"
 	servers["pictures"] = "whois.donuts.co"
 	servers["pink"] = "whois.afilias.net"
